@@ -5,7 +5,7 @@ This book is a place for people who have worked in digital government to record 
 Recipes must be...
 
 * Opinionated
-* About policy, not practice
+* About how things should be, not practice or professions
 * Explain why it matters
 * Explain how things should be, not how to get there
 * Between 500 and 1500 words in length
